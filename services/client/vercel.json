@@ -1,0 +1,8 @@
+{
+	"builds": [
+		{
+			"src": "services/client/package.json",
+			"use": "@vercel/next"
+		}
+	]
+}
