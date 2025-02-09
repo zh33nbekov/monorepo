@@ -9,5 +9,10 @@
 		"lint": "eslint . --fix",
 		"format": "prettier --write \"**/*.{ts,tsx,json,css,scss}\"",
 		"lint-format": "npm run lint && npm run format"
+	},
+	"dependencies": {
+		"next": "15.1.6",
+		"react": "^19.0.0",
+		"react-dom": "^19.0.0"
 	}
 }
