@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/Rai/%24Rai/practice/monorepo/services/admin/services/admin/src/app/globals.css"],"sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tbox-sizing: border-box;\n\tfont-family: 'TildaSans', Arial, sans-serif;\n}\ninput,\ntextarea {\n\toutline: none;\n\tborder: none;\n}\nbutton {\n\tborder: none;\n\tcursor: pointer;\n}\nbutton,\na {\n\tuser-select: none;\n}\nhtml {\n\tscroll-behavior: smooth;\n}\nbody {\n\tbackground-color: #232732;\n\tbox-shadow: inset 10px 10px 20px 0px rgba(0, 0, 0, 0.25),\n\t\tinset -10px -10px 20px 0px rgba(0, 0, 0, 0.25);\n\tborder-radius: 24px;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;AAMA;;;;;AAKA;;;;;AAIA;;;;AAIA;;;;AAGA"}},
-    {"offset": {"line": 31, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
